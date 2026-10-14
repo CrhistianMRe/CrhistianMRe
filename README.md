@@ -1,6 +1,6 @@
 # Hi 👋, I'm Crhistian from Guatemala 🇬🇹
 
-I'm a current bachelor CSIE student in Taiwan 🇹🇼. I have real passion for hands-on coding and development.
+I'm a current bachelor CSIE student in Taiwan 🇹🇼.
 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
