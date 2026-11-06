@@ -15,7 +15,9 @@ I'm a current bachelor CSIE student in Taiwan 🇹🇼.
 
 ![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrhistianMRe&theme=github_dark)
 
+## 🤖 My other profile
+This profile repository contains only hand-written code. For projects built with AI agents (ODD), visit:
 
-
+[![ODD profile](https://img.shields.io/badge/Visit_my_ODD_profile-CrhistianMRe--auto-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CrhistianMRe-auto)
 
 
